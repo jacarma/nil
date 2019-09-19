@@ -91,7 +91,7 @@
     ],
     "globals": {
       "ts-jest": {
-        "tsConfigFile": "/Users/javiercarrasco/projects/nil/tsconfig.test.json"
+        "tsConfigFile": "tsconfig.test.json"
       }
     }
   },
