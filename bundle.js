@@ -1,0 +1,2 @@
+!function(){"use strict";var d=function(d){return!d&&0!==d&&!1!==d};document.getElementById("example").innerHTML=`\n    <dl>\n      <dt>nil(null)</dt> <dd>${d(null)}</dd></dt>\n      <dt>nil(undefined)</dt> <dd>${d(void 0)}</dd></dt>\n      <dt>nil("")</dt> <dd>${d("")}</dd></dt>\n      <dt>nil(NaN)</dt> <dd>${d(Number.NaN)}</dd></dt>\n      <dt>nil(false)</dt> <dd>${d(!1)}</dd></dt>\n      <dt>nil(0)</dt> <dd>${d(0)}</dd></dt>\n      <dt>nil([])</dt> <dd>${d([])}</dd></dt>\n      <dt>nil({})</dt> <dd>${d({})}</dd></dt>\n    </dl>\n  `}();
+//# sourceMappingURL=bundle.js.map
