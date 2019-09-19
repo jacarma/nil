@@ -1,6 +1,6 @@
 {
   "name": "@jacarma/nil",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility functions to easily handle nullable variables",
   "author": "jacarma",
   "license": "MIT",
