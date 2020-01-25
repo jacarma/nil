@@ -2,6 +2,8 @@
 
 > Utility functions to easily handle nullable variables
 
+This project is only an example about how to publish JavaScript libraries
+
 [![NPM](https://img.shields.io/npm/v/@jacarma/nil.svg)](https://www.npmjs.com/package/@jacarma/nil) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) ![CI Status](https://travis-ci.org/jacarma/nil.svg?branch=master)
 
 ## Install
